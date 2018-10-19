@@ -2,7 +2,7 @@
 ## Two wheels self balanced robot - Robot à deux roues
  
 
- Dans ce projet, on s'est proposé de modéliser et créer un robot à deux roues pouvant se déplacer tout en gardant son équilibre. Veuillez vous réferer au rapport et à la présentation ci-joints, qui détaillent les differents composantes du robot et la démarche suivie: À partir de la modélisation du système (sur [Proteus Isis]([Proteus_Isis]Modelisation)), passant par l'établissement de la connexion Bluetooth (application Android), jusqu'à l'étude et l'optimisation de la commande (sur [Matlab et Simulink]([Matlab]Commande)) et enfin l'implementation du code final sur l'[Arduino](Code_Arduino).
+ Dans ce projet, on s'est proposé de modéliser et créer un robot à deux roues pouvant se déplacer tout en gardant son équilibre. Veuillez vous réferer au [rapport](Rapport%5BFR%5D.pdf) et à la [présentation](Presentation%20%5BFR%5D.pptx) ci-joints, qui détaillent les differentes composantes du robot et la démarche suivie: À partir de la modélisation du système (sur [Proteus Isis]([Proteus_Isis]Modelisation)), passant par l'établissement de la connexion Bluetooth (application Android), jusqu'à l'étude et l'optimisation de la commande (sur [Matlab et Simulink]([Matlab]Commande)) et enfin l'implementation du code final sur l'[Arduino](Code_Arduino).
  
  ![](Images/Schema%20Fritzing.png)
  
